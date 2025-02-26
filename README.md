@@ -1,4 +1,4 @@
-# Olá! 🔱 Me chamo Jonatas Nogueira.
+# Oi! 🔱 Me chamo Jonatas Nogueira.
 <p align="center"> Desenvolvedor iniciante apaixonado por resolver problemas por meio da tecnologia, sempre aprendendo e explorando novas soluções.</p>&nbsp;
 <h2 align="center"><strong>Studying in this moment:</strong></h2>
 
