@@ -1,6 +1,6 @@
 # Oi! 🔱 Me chamo Jonatas Nogueira.
 <p align="center"> Desenvolvedor iniciante apaixonado por resolver problemas por meio da tecnologia, sempre aprendendo e explorando novas soluções.</p>&nbsp;
-<h2 align="center"><strong>Studying in this moment:</strong></h2>
+<h3 align="center"><strong>Estudando:</strong></h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">&nbsp;
