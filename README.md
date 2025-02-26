@@ -3,19 +3,13 @@
 <h3 align="center"><strong>Estudando:</strong></h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=jonatasnss&theme=dark&hide_border=false&include_all_commits=false&count_private=false"><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=jonatasnss&theme=dark&hide_border=false"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasnss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </div>
+
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonatasnss&theme=transparent&hide_border=false&include_all_commits=false&count_private=false"><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=jonatasnss&theme=transparent&hide_border=false"><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasnss&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact"><br/>
-</div>
 
 &nbsp;
 &nbsp;
